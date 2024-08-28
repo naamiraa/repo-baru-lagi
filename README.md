@@ -4,4 +4,6 @@ NPM : 2306165931
 
 Kelas : PBP C
 
-Hobi : Makan
+Hobi : Tidur
+
+Jurusan: Sistem Informasi
