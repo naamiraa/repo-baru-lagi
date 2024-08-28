@@ -4,4 +4,4 @@ NPM : 2306165931
 
 Kelas : PBP C
 
-Hobi : Tidur
+Hobi : Makan
